@@ -531,7 +531,7 @@ header.sticky{
 	.home{
 		grid-template-columns: 1fr;
 		min-height: 130vh;
-		grid-gap: 0.5rem;
+		grid-gap: 1rem;
 	}
 	.home-text{
 		padding-top: 55px;
